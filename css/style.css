@@ -72,7 +72,6 @@ h2{
 	text-align: center;
 }
 .banner{
-	width:1920px;
 	height: 600px;
 	background-image: url(../images/banner/banner.jpg);
 	background-repeat: no-repeat;
@@ -139,6 +138,8 @@ h3{
   line-height: 50px;
   font-size: 17px;
   margin-bottom: 15px;
+	outline-style: none;
+	font-weight: 600;
 }
 
 .section1_box_log ul{   /*아이디/비밀번호 찾기*/
